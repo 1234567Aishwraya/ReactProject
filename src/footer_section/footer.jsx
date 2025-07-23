@@ -7,7 +7,7 @@ import {
   FaYoutube,
   FaWhatsapp,
 } from "react-icons/fa";
-import "./Footer.css";
+import "./footer.css";
 import "./footerlinks.css";
 
 const Footer = () => {
