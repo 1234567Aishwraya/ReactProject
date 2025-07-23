@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBar from "./searchbar";
+import SearchBar from "./Searchbar";
 import backgroundImage from "../images/back2.jpg"; //  Import Image
 
 

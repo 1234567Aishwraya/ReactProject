@@ -1,5 +1,5 @@
 import React from "react";
-import Search from "../searchbar/search";
+import Search from "../searchbar/Search.jsx";
 import Cards from "../cards/cards.jsx";
 
 
